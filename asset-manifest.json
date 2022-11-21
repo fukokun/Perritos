@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Perritos/static/css/main.7538644c.css",
+    "main.js": "/Perritos/static/js/main.2854265c.js",
+    "index.html": "/Perritos/index.html",
+    "main.7538644c.css.map": "/Perritos/static/css/main.7538644c.css.map",
+    "main.2854265c.js.map": "/Perritos/static/js/main.2854265c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7538644c.css",
+    "static/js/main.2854265c.js"
+  ]
+}
