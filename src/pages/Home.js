@@ -53,15 +53,7 @@ export default function Home() {
               <h1 className="flex items-center justify-center text-center px-5 text-3xl font-bold lg:text-5xl text-white">
                 The Dog App
               </h1>
-              <p className="my-8 text-white">
-                This application is powered by{" "}
-                <a
-                  href="https://thedogapi.com"
-                  className="text-indigo-600 underline active:text-orange-400"
-                >
-                  The Dog Api
-                </a>
-              </p>
+            <br></br>
 
               <form
                 onSubmit={handleSubmit}
